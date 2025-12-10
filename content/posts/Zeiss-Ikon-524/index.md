@@ -42,4 +42,9 @@ What makes this camera great is its value, I found mine for less than $100 CAD; 
 
 ** Note that few are from very expired Kodak Portra 160
 
-{{< carousel images="gallery/*" interval="2500" >}}
+{{< carousel images="gallery/*" aspectRatio="1-1" interval="2500" >}}
+
+## Conclusion 
+{{< lead >}}
+And the best argument to conclude this article is that this camera is very similar to **one of Ansel Adams' favorites: the Super Ikonta B.**
+{{< /lead >}}
