@@ -1,8 +1,8 @@
 ---
-title: "A Collection of Landscapes"
+title: "A Collection of Portraits"
 layout: "simple"
-description: "Some of my favorite landscapes photographed over the last few years across Europe and North America"
-tags: ["gallery", "landscape", "collection"]
+description: "Portraits and studio shootings"
+tags: ["gallery", "portrait", "collection"]
 showDate: false
 showDateUpdated: false
 showEdit: false
@@ -10,10 +10,6 @@ showReadingTime: false
 showTaxonomies: false
 showWordCount: false
 ---
-{{< lead >}}
-Some of my favorite landscapes photographed over the last few years across Europe and North America.
-{{< /lead >}}
-
 {{< gallery >}}
   <img src="gallery/Dentelles.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery/Chamois.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />

@@ -1,8 +1,8 @@
 ---
-title: "A Collection of Landscapes"
+title: "Old School Vibes"
 layout: "simple"
-description: "Some of my favorite landscapes photographed over the last few years across Europe and North America"
-tags: ["gallery", "landscape", "collection"]
+description: "Analog film only!"
+tags: ["gallery", "analog", "collection"]
 showDate: false
 showDateUpdated: false
 showEdit: false
@@ -11,7 +11,7 @@ showTaxonomies: false
 showWordCount: false
 ---
 {{< lead >}}
-Some of my favorite landscapes photographed over the last few years across Europe and North America.
+Analog shots only! Most of these were captured with cameras that are older than me, giving each image a unique charm and character. It’s all about that vintage feel and the beauty of film photography that brings nostalgia to life.
 {{< /lead >}}
 
 {{< gallery >}}

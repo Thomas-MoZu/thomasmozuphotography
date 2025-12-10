@@ -1,7 +1,8 @@
 ---
 title: "Discovering Medium Format - The Zeiss Ikon Experience"
 date: 2025-11-26
-description: "Test and Review if the vintage medium format camera The Zeiss Ikon"
+description: "Test and Review of the vintage medium format camera The Zeiss Ikon"
+summary: "A Medium Format Camera in Your Pocket! Test and Review of this vintage camera."
 tags:
 - analog
 - review

@@ -3,7 +3,9 @@ title: "Is this the cheapest 6x7 Medium Format Camera?!"
 date: 2025-12-01
 draft: false
 description: "The Dora Goodman's 3D printed Camera"
+summary: "An affordable 3D printed camera"
 tags: ["review", "analog"]
+showSummary: true
 ---
 Getting into medium format photography isn't cheap, and shooting 6x7 is even more expensive! But could a 3D printed camera be the solution to that dilemma? Let's review this with the Dora Goodman's 3D printed body!
 
