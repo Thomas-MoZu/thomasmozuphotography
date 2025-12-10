@@ -1,0 +1,18 @@
+details {
+    margin-bottom: 10px;
+}
+
+summary {
+    font-weight: normal;
+    cursor: pointer;
+}
+
+details[open] summary {
+    font-weight: bold;
+    color: #007bff; /* Change this for an open state color */
+}
+
+.carousel-image img {
+    max-width: 70%;  /* Adjust this value as needed */
+    height: auto;     /* Maintains aspect ratio */
+}

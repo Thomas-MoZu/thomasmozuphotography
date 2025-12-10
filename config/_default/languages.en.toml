@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Thomas MoZu Photography"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Portfolio, Gallery and Blog"
+logo = "photo-camera.svg"
+
+["params.author"]
+name = "Thomas Molle"
+image = "Profile-Thomas.jpg"
+headline = "Outdoor photographer based in Vancouver, BC."
+bio = "Outdoor lover, I spend a lot of my time exploring the coastal mountains of the Pacific North West. My camera is always in my backpack, ready to capture the adventures we embark on together."
+email = "contact@thomasmozuphotography.ca"
+links = [
+  { threads = "https://threads.com/@tomrider84" },{ instagram = "https://instagram.com/tomrider84" },{ mastodon = "https://piaille.fr/@thomasmozu" },{ facebook = "https://facebook.com/tomadelie/" }
+]
+

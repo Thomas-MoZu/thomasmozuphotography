@@ -1,0 +1,34 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "My Work"
+pageRef = "work"
+identifier = "Dro4h2iEZH"
+weight = 1
+
+[[main]]
+name = "Gallery"
+pageRef = "gallery"
+identifier = "NSrIGfT28I"
+weight = 2
+
+[[main]]
+name = "Blog"
+pageRef = "posts"
+weight = 3
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Contact"
+pageRef = "contact"
+identifier = "MXuo3aUF2k"
+weight = 9_999
+
+[[footer]]
+name = "F.A.Q"
+pageRef = "faq"
+identifier = "vwCk5GDo2E"
+weight = 9_999
