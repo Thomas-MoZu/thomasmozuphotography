@@ -10,19 +10,27 @@ Outdoor lover, I spend a lot of my time exploring the coastal mountains of the P
 
 # Landscapes
 
-I specialize in capturing the breathtaking landscapes of British Columbia’s stunning mountains and coastal regions. My passion for the outdoors drives me to explore and document the beauty of nature through my lens, whether it’s the serene vistas of the mountains or the thrilling action of local outdoor sports.
-
-<div class="carousel-image">
-{{< carousel images="gallery-Landscapes/*" interval="2500" >}}
+I specialize in capturing the breathtaking landscapes of British Columbia’s stunning mountains and coastal regions. My passion for the outdoors drives me to explore and document the beauty of nature through my lens, whether it’s the serene vistas of the mountains or the thrilling action of local outdoor sports.</p>
+<div class="carousel-image half-size">
+  {{< carousel images="gallery-Landscapes/*" interval="2500" >}}
 </div>
+
+---
 
 # Portrait
 
-When I'm not in the mountains, I also enjoy working with models in the studio, focusing on portrait photography. I love experimenting with different lighting techniques and setups, exploring the nuances of light and shadow to create unique and compelling images. I apply a similar process to my product photography, where I strive to highlight the details and aesthetics of each item, ensuring they stand out in their own right.
+<div class="carousel-container">
+    <div class="carousel-image full-size">
+      {{< carousel images="gallery-Portraits/*" aspectRatio="4-5" interval="2500" >}}
+    </div>
+    <div class="text-container" style="margin-left: 20px;">
+        <p>When I'm not in the mountains, I also enjoy working with models in the studio, focusing on portrait photography. I love experimenting with different lighting techniques and setups, exploring the nuances of light and shadow to create unique and compelling images. I apply a similar process to my product photography, where I strive to highlight the details and aesthetics of each item, ensuring they stand out in their own right.
 
-Analog photography for portrait is something I particularly enjoy as it adds a distinct character and depth to the images that is characteristic of film photography.
+Analog photography for portrait is something I particularly enjoy as it adds a distinct character and depth to the images that is characteristic of film photography.</p>
+    </div>
+</div>
 
-**IMAGE**
+---
 
 # Analog
 

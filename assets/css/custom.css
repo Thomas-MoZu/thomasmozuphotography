@@ -12,7 +12,21 @@ details[open] summary {
     color: #007bff; /* Change this for an open state color */
 }
 
-.carousel-image img {
-    max-width: 70%;  /* Adjust this value as needed */
-    height: auto;     /* Maintains aspect ratio */
+.half-size {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden; /* Ensures no overflow outside the container */
+}
+
+.carousel-container {
+    display: flex;
+    align-items: flex-start; /* Aligns items to the top */
+}
+
+.full-size {
+    width: 150%; /* Ensures it doesn't exceed container width */
+    height: auto; /* Adjust height as needed based on aspect ratio */
+    margin-right: 0;
+    overflow: hidden;
 }
