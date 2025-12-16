@@ -20,10 +20,10 @@ I specialize in capturing the breathtaking landscapes of British Columbia’s st
 # Portrait
 
 <div class="carousel-container">
-    <div class="carousel-image full-size">
+    <div class="carousel-image-left">
       {{< carousel images="gallery-Portraits/*" aspectRatio="4-5" interval="2500" >}}
     </div>
-    <div class="text-container" style="margin-left: 20px;">
+    <div class="text-container-right">
         <p>When I'm not in the mountains, I also enjoy working with models in the studio, focusing on portrait photography. I love experimenting with different lighting techniques and setups, exploring the nuances of light and shadow to create unique and compelling images. I apply a similar process to my product photography, where I strive to highlight the details and aesthetics of each item, ensuring they stand out in their own right.
 
 Analog photography for portrait is something I particularly enjoy as it adds a distinct character and depth to the images that is characteristic of film photography.</p>
@@ -34,9 +34,20 @@ Analog photography for portrait is something I particularly enjoy as it adds a d
 
 # Analog
 
-While I primarily shoot digital for action photography, portraits, and commercial work, I fell down the rabbit hole of film photography a few years ago. I’ve since collected a variety of old cameras, ranging from 35mm to 120mm and large format. I find the film process to be refreshingly different and truly enjoy the slower pace it demands—from taking the shot to developing and scanning the film. In a world where everything seems to happen immediately, this alternative approach allows me to step down for a moment and appreciate the true magic of photography.
+<div class="carousel-container">
+    <div class="text-container-left">
+        <p>While I primarily shoot digital for action photography, portraits, and commercial work, I fell down the rabbit hole of film photography a few years ago. I’ve since collected a variety of old cameras, ranging from 35mm to 120mm and large format. I find the film process to be refreshingly different and truly enjoy the slower pace it demands—from taking the shot to developing and scanning the film. In a world where everything seems to happen immediately, this alternative approach allows me to step down for a moment and appreciate the true magic of photography.</p>
+ </div>
+    <div class="carousel-image-right">
+        {{< figure
+            src="onfilm.jpg"
+            alt="Kodak Ektar 100"
+            caption="Film Is Not Dead - Kokak Ektar 100"
+        >}}
+    </div>
+</div>
 
-**IMAGE**
+---
 
 # Events
 

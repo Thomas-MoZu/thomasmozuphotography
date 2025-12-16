@@ -24,6 +24,24 @@ details[open] summary {
     align-items: flex-start; /* Aligns items to the top */
 }
 
+.carousel-image-left {
+    flex: 1;
+    max-width: 35%;
+}
+
+.text-container-right {
+    margin-left: 20px; flex: 2;
+}
+
+.carousel-image-right {
+    flex: 2;
+    max-width: 35%;
+}
+
+.text-container-left {
+    margin-right: 20px; flex: 1;
+}
+
 .full-size {
     width: 150%; /* Ensures it doesn't exceed container width */
     height: auto; /* Adjust height as needed based on aspect ratio */
