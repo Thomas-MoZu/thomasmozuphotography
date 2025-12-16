@@ -47,12 +47,19 @@ Analog photography for portrait is something I particularly enjoy as it adds a d
     </div>
 </div>
 
----
-
 # Events
 
-My photography journey has been deeply influenced by my passion for outdoor sports, shaping my work in event photography. This passion drives me to capture the dynamic energy of various activities, like mountain biking, skiing and mountaineering. I also enjoy capturing indoor sporting events and live music for the energy and emotions these events provide.
-
-**IMAGE**
+<div class="carousel-container">
+    <div class="carousel-image-left">
+         {{< figure
+            src="ChevalPassion-1.jpg"
+            alt="Cheval-Passion"
+            caption="Cheval Passion"
+        >}}
+    </div>
+    <div class="text-container-right">
+        <p>My photography journey has been deeply influenced by my passion for outdoor sports, shaping my work in event photography. This passion drives me to capture the dynamic energy of various activities, like mountain biking, skiing and mountaineering. I also enjoy capturing indoor sporting events and live music for the energy and emotions these events provide.</p>
+    </div>
+</div>
 
 ** CONTACT FORM**
